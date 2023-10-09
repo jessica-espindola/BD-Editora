@@ -24,9 +24,9 @@ desempenhadas.
 <h3>Modelo Entidade Relacionamento</h3>
 
 A partir das informações prestadas pelo professor e exibidas acima, criamos o Modelo Entidade Relacionamento (exibido abaixo), utilizando o Br Modelo. Optamos por incluir algumas modificações de acordo com a nossa interpretação e análise de negócio.
-<img src="">
+<img src="https://github.com/jessica-espindola/BD-Editora/blob/c34733f77466565379029865e5282a1e72a53a18/MER%20Editora%20-%20Projeto%20BD.jpg">
 
 <h3>Modelo Lógico</h3>
 
 A partir do Modelo Entidade Relacionamento exibido acima, foi criado o modelo lógico, utilizando o MySQL Workbench 8.0. Confira abaixo:
-<img src="">
+<img src="https://github.com/jessica-espindola/BD-Editora/blob/c34733f77466565379029865e5282a1e72a53a18/MR%20Editora.png">
